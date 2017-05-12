@@ -19,7 +19,7 @@
     <dependency>
       <groupId>org.sonatype.mavenbook.multi</groupId>
       <artifactId>simple-weather</artifactId>
-      <version>${project.version}</version>
+      <version>1.10-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <build>
