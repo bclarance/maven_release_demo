@@ -8,6 +8,7 @@
   </parent>
   <artifactId>simple-weather</artifactId>
   <packaging>jar</packaging>
+  <version>1.8</version>
 
   <name>Multi Chapter Simple Weather API</name>
 
